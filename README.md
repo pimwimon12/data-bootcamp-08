@@ -1,9 +1,9 @@
 # data-boothcamp-08
-My Project in Data Booth camp 08
+My Project in Data Bootcamp 08
 
-## What do I learn from this boothcamp?
+## What did I learn from this bootcamp?
 
-I learn a lot of essential skills for data analyst. This boothcamp has 10 sprints as follow:
+I learn a lot of essential skills for data analyst. This bootcamp has 10 sprints as follow:
 
 - Intro to Data science
 - Spreadsheets
