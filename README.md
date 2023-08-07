@@ -1,4 +1,4 @@
-# data-boothcamp-08
+# data-bootcamp-08
 My Project in Data Bootcamp 08
 
 ## What did I learn from this bootcamp?
