@@ -1,12 +1,12 @@
 order_pizza <- function() {
   print("Welcome to Pizza store")
-  print("What you choose Hawaiian or Super Supreme?: ")
+  print("What you choose? Hawaiian or Super Supreme: ")
   user_input1 <-readLines("stdin", n=1)
   print("What size of pizza do you want: Small|Medium|Large? ")
   user_input2 <- readLines("stdin", n=1)
   print("You want to thin or regular flour?: ")
   user_input3 <- readLines("stdin", n=1)
-  print("You want to add extra cheese? Yes or No: ")
+  print("Are you want to add extra cheese? Yes or No: ")
   user_input4 <- readLines("stdin", n=1)
   
   if (user_input1 == "Hawaiian" & user_input2 == "Small" & user_input4 == "Yes")
