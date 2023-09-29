@@ -38,6 +38,7 @@ RPS_game <- function() {
     else if (player_input == "scissors" & com_input == "rock") {print(paste("You:",player_input,"| Computer:",com_input,"->","You Lose"))
       count = count+1
       lose = lose+1}
-    else {print("Please input 'rock'/'paper'/'scissors' or 'X' only")}  }}
+    else {print("Please input 'rock'/'paper'/'scissors' or 'X' only")}  
+}}
 
 RPS_game()
