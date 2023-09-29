@@ -6,13 +6,15 @@ My Project in Data Bootcamp 08
 I learn a lot of essential skills for data analyst. This bootcamp has 10 sprints as follow:
 
 - Intro to Data science
-- Spreadsheets
-- Database (SQL)
-- R Programmimg
-- Data Transformation
-- Data Visualization
-- Essential Statistics for Data Analyst
-- Essential Machine Learning for Data Analyst
-- Python Programmimg
-- Essential Python for Data Analyst
-- Dashboard
+1) Spreadsheets
+2) Database (SQL)
+3) R Programmimg
+- https://replit.com/@PimwimonPmW/Bootcamp08HWRChatbotPizza
+- https://replit.com/@PimwimonPmW/Bootcamp08HWRRPS-game
+4) Data Transformation
+5) Data Visualization
+6) Essential Statistics for Data Analyst
+7) Essential Machine Learning for Data Analyst
+8) Python Programmimg
+9) Essential Python for Data Analyst
+0) Dashboard
