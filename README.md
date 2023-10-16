@@ -7,8 +7,9 @@ I learn a lot of essential skills for data analyst. This bootcamp has 10 sprints
 
 - Intro to Data science
 1) Spreadsheets
-- https://docs.google.com/spreadsheets/d/1sGek24lc-jJU1NJNDJg44OSeYatCPy_b__a-72fPTVc/edit?usp=sharing
+- https://docs.google.com/spreadsheets/d/1sGek24lc-jJU1NJNDJg44OSeYatCPy_b__a-72fPTVc
 2) Database (SQL)
+- https://replit.com/@PimwimonPmW/BootcampHWsqlrestaurant
 3) R Programmimg
 - https://replit.com/@PimwimonPmW/Bootcamp08HWRChatbotPizza
 - https://replit.com/@PimwimonPmW/Bootcamp08HWRRPS-game
