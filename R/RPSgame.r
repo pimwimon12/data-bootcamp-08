@@ -1,4 +1,6 @@
 RPS_game <- function() {
+  print("Welcome to RPS Game. Let's play!")
+  
   RPS <- c("rock","paper","scissors")
   
   count <- 0
