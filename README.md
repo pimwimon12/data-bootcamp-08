@@ -19,4 +19,5 @@ I learn a lot of essential skills for data analyst. This bootcamp has 10 sprints
 7) Essential Machine Learning for Data Analyst
 8) Python Programmimg
 9) Essential Python for Data Analyst
-0) Dashboard
+10) Dashboard
+- https://public.tableau.com/app/profile/pimwimon.wijit/viz/SalesSuperstore_16989207795650/SalesPerformance  
